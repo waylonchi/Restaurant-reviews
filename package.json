@@ -1,0 +1,38 @@
+{
+  "name": "project-waylon_mws-restaurant-stage",
+  "version": "1.0.0",
+  "description": "This project contains the code for restaurant app which is part of Udacity web speacialist course. The app is meant to follow all aspect of progressive app.",
+  "main": "service_worker.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/waylonchi/Restaurant-reviews.git"
+  },
+  "author": "Waylon Chi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/waylonchi/Restaurant-reviews/issues"
+  },
+  "homepage": "https://github.com/waylonchi/Restaurant-reviews",
+  "devDependencies": {
+    "browser-sync": "^2.23.6",
+    "compression": "^1.7.1",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^4.1.0",
+    "gulp-babel": "^7.0.1",
+    "gulp-clean-css": "^3.9.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-htmlclean": "^2.7.16",
+    "gulp-imagemin": "^4.1.0",
+    "gulp-inject": "^4.3.0",
+    "gulp-jsmin": "^0.1.5",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^3.0.0",
+    "gulp-webp": "^3.0.0"
+  },
+  "dependencies": {
+    "gulp-htmlmin": "^4.0.0"
+  }
+}
