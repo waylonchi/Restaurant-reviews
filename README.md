@@ -23,7 +23,7 @@ N.B.
 Make sure node is installed.
 
 ### Step 1
-Clone the repo: https://github.com/udacity/mws-restaurant-stage-3
+Clone the repo: https://github.com/waylonchi/Restaurant-reviews
 
 ### Step 2
 Go to the project Folder using this command:
