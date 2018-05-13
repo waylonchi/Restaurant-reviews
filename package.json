@@ -1,5 +1,5 @@
 {
-  "name": "project-waylon_mws-restaurant-stage",
+  "name": "Restaurant-reviews",
   "version": "1.0.0",
   "description": "This project contains the code for restaurant app which is part of Udacity web speacialist course. The app is meant to follow all aspect of progressive app.",
   "main": "service_worker.js",
